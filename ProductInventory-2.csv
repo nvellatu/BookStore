@@ -1,0 +1,16 @@
+productID,type,title,numInStock,price
+1,book,fahrenheit 451,8,9.99
+2,book,1984,5,15.99
+3,book,to kill a mockingbird,12,12.99
+4,book,beloved,4,13.5
+5,book,the little prince,10,7.0
+6,book,brave new world,15,19.0
+7,book,charlotte's web,10,8.99
+8,book,hitchhiker's guide to the galaxy,5,9.99
+9,book,catch-22,20,11.99
+10,book,flowers for algernon,7,6.99
+11,cd,a night at the opera,14,6.99
+12,cd,cuz I love you,8,7.99
+13,cd,a hard day's night,3,3.99
+14,dvd,the dark knight,5,12.99
+15,dvd,jurassic park,7,7.99
